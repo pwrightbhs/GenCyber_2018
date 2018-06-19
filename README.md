@@ -8,3 +8,7 @@ This is the third change, after the second. <!--I had to make changes in the con
 
 This is an edit done through the Git Bash CMD. I'm checking for saves 
 and reading without using the GUI.
+
+
+Their student group NuLLIFY hosts a high school CTF competition every year.  Here is the website:
+http://www.unomaha.edu/college-of-information-science-and-technology/engagement/nullify-ctf.php
